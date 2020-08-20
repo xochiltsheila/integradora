@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # n3
 Pagina de ventas en linea de cubos (n3)
 
@@ -25,3 +26,6 @@ Thanks: <br>
 <b>Materialize<b> v0.97.8 https://github.com/Dogfalo/materialize <br>
 <b>Animate.css<b> https://github.com/daneden/animate.css <Br>
 <b>Sweet Alert<b> https://github.com/t4t5/sweetalert
+=======
+# integradora
+>>>>>>> a3706400833f893f0898dd637c4c9a33de4d06c7
